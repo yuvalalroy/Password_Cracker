@@ -56,8 +56,8 @@ The master server distributes password cracking tasks to registered minion serve
 These instructions will guide you through setting up and installing the necessary dependencies for the *Password Cracker*.
 
 ### Prerequisites
-- **Python:** Make sure you have Python installed on your machine.
-
+- **Python:** Make sure you have Python 3.11.6 installed on your machine.
+  
 ### Clone the Repository
 ```bash
 git clone https://github.com/yuvalalroy/Password_Cracker.git
